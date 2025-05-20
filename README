@@ -1,0 +1,15 @@
+# Code Appendix for Paper Submission 13324
+
+**Title:** Federated Learning for Collaborative Inference Systems: The Case of Early Exit Networks
+
+## Overview
+
+This repository contains the code used for the experiments described in our paper submission 13324. The scripts provided allow you to replicate the experimental results presented in the paper.
+
+## Running Experiments
+
+Experiments can be run using the scripts found in the various `scripts` subfolders.
+
+## main.py
+
+Serves as the central file for running our experiments. `main.py` orchestrates the various functions that are required to execute the algorithm, with comments provided within the code to point out where each function corresponds to the steps of the algorithm as described in the paper.
